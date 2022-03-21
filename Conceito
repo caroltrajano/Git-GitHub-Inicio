@@ -1,0 +1,18 @@
+
+
+Conceito Git-GitHub 
+
+Git é um software de controle de versão para desenvolvedores, onde você consegue trabalhar com repositório local ou remoto. 
+
+Alguns benefícios de trabalhar com Git 
+- Você consegue trabalhar de forma off-line, permitindo a sincronização com as modificações feitas quando estiver online com o repositório remoto. 
+- Conseguimos mover e adicionar arquivos. 
+- Conseguimos ignorar arquivos no repositório local usando o arquivo .gitinore.
+- Conseguimos trabalhar em novos projetos sem interferir no código principal usando as Branches. 
+
+GitHub é uma plataforma usada pelos desenvolvedores usada para a hospedagem de códigos e projetos, onde é possível a contribuição em equipe e individual em códigos diversos. 
+
+Alguns benefícios de trabalhar com GitHub
+- Podemos planejar e desenvolver projetos junto com outros desenvolvedores. 
+- Conseguimos contribuir com o trabalho de outros programadores. 
+- Podemos editar códigos, criar lista de tarefas, páginas web, entre outros. 
